@@ -1,5 +1,6 @@
 
-<h1> Hola, me llamo Melissa Meléndez: abrazos: 
+<h1> Hola, me llamo Melissa Meléndez: 
+
 <h3> ¿Quién soy? 💻 </h3>
 <p> Soy una Desarrolladora Full Stack Developer diplomada en Ciencias del Mar (Oceanografía). En estos ultimos años, soy una apasionada de la tecnología, la programación, el diseño Web y como una de mis grandes pasiones es aprender me encantaría ir entrandome al mundo de la Animación como tal, me encanta.Pues como vereís mis aficiones siguen creciendo, beneficio a mi cerebro pero... mi bolsillo sufre ...! </p>
 
